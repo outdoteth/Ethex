@@ -1,6 +1,6 @@
 pragma solidity ^0.4.11;
 
-library SafeMath {
+library SafeMath1 {
   function mul(uint256 a, uint256 b) internal constant returns (uint256) {
     uint256 c = a * b;
     assert(a == 0 || c / a == b);
