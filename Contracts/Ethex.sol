@@ -9,6 +9,7 @@ contract exchange {
     
     uint fee = 100;
     address admin;
+    uint _set;
     
     function exchange() {
         admin = msg.sender;
