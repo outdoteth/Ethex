@@ -20,7 +20,7 @@ contract exchange {
     }
     
     function setFee(uint _set) adminOnly {
-        _set = fee;
+        fee = _set;
     }
     
     // erc20 balances of user addresses
