@@ -1,2 +1,3 @@
 # Ethex
-The first fully on-chain decentralised exchange for ethereum
+A fully on-chain decentralised exchange for ethereum
+NB: Still under development (not stable).
